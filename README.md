@@ -1,5 +1,19 @@
 # Home test task
 
+
+**Completed Task**
+-------------------
+
+Please follow following steps to run TestNG test execution.
+
+1) Created class TestNGWebTest for testNG execution
+
+2) Created page objects in pages package and these pages called from TestNG tests.
+
+3) Please run TestNG tests from TestNGWebTest class
+
+
+
 **What do you already have supplied to you?**
 -----
  * 3 tests hitting against http://automationpractice.com/index.php
@@ -60,16 +74,6 @@ One last time, there are no wrong answers. We are interested in seeing _your_ fl
 
 
 
-**Completed Task**
--------------------
-
-Please follow following steps to run TestNG test execution.
-
-1) Created class TestNGWebTest for testNG execution
-
-2) Created page objects in pages package and these pages called from TestNG tests.
-
-3) Please run TestNG tests from TestNGWebTest class
 
 
 
